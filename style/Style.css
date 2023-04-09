@@ -1,0 +1,60 @@
+body{
+    background-color:dodgerblue;
+}
+
+h1{
+    margin: 20px 25px 0px 500px;
+    font-family: cursive;
+    font-size: xx-large;
+    color: gold;
+}
+
+.listing{
+    text-align: left;
+    padding-left: 300px;
+    word-spacing: 2px;
+}
+
+.listing li{
+   font-style: italic;
+}
+
+.mainContainer{
+    background-color: aliceblue;
+    
+    margin: 50px 100px 0px 100px;
+
+    padding: 10px 100px 100px 100px;
+
+    text-align: center;
+
+    
+}
+
+
+
+
+
+.mainContainer input{
+    margin-top: 10px;
+}
+
+.mainContainer button{
+    margin-top: 10px;
+}
+
+
+.mainContainer p{
+    font-size: large;
+    color: red;
+}
+#res{
+    font-size: large;
+}
+
+#inside{
+    background-color: red;
+}
+marquee{
+    margin-top: 50px;
+}
