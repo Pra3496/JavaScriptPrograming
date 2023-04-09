@@ -24,16 +24,91 @@ h1{
     
 }
 
-button{
+.btn1{
     background-color: #4CAF50; /* Green */
     border: none;
    
-    padding: 15px 32px;
+    padding: 15px 110px;
     text-align: center;
     text-decoration: none;
     
     font-size: 16px;
-    margin: 4px 2px;
+    margin: 5px 2px;
+    cursor: pointer;
+    
+    transition-duration: 0.4s;
+}
+
+.btn2{
+    background-color: #4CAF50; /* Green */
+    border: none;
+   
+    padding: 15px 110px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 16px;
+    margin: 5px 5px;
+    cursor: pointer;
+    
+    transition-duration: 0.4s;
+}
+
+.btn3{
+    background-color: #4CAF50; /* Green */
+    border: none;
+   
+    padding: 15px 110px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 16px;
+    margin: 5px 5px;
+    cursor: pointer;
+    
+    transition-duration: 0.4s;
+}
+
+.btn4{
+    background-color: #4CAF50; /* Green */
+    border: none;
+   
+    padding: 15px 110px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 16px;
+    margin: 5px 5px;
+    cursor: pointer;
+    
+    transition-duration: 0.4s;
+}
+
+.btn5{
+    background-color: #4CAF50; /* Green */
+    border: none;
+   
+    padding: 15px 110px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 16px;
+    margin: 5px 5px;
+    cursor: pointer;
+    
+    transition-duration: 0.4s;
+}
+
+.btn6{
+    background-color: #4CAF50; /* Green */
+    border: none;
+   
+    padding: 15px 110px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 16px;
+    margin: 5px 5px;
     cursor: pointer;
     
     transition-duration: 0.4s;
